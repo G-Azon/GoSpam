@@ -9,7 +9,7 @@
 
 ## 🔧 Description
 
-GoSpam is a customizable tool developed by **Lazon** for performing high-volume HTTP request tests against target endpoints.  
+GoSpam is a customizable tool developed by **G-Azon** for performing high-volume HTTP request tests against target endpoints.  
 This tool is primarily designed for **educational**, **experimental**, and **authorized load testing** on your own infrastructure.
 
 ---
@@ -18,7 +18,7 @@ This tool is primarily designed for **educational**, **experimental**, and **aut
 
 - This tool **must only be used for legal purposes**, such as stress testing **your own servers**, or systems for which you have **explicit written authorization**.  
 - Using GoSpam against third-party systems without permission may be illegal under local or international law.  
-- The creators of GoSpam (**Lazon**) are **not responsible** for any misuse or illegal activity performed with this tool.  
+- The creators of GoSpam (**G-Azon**) are **not responsible** for any misuse or illegal activity performed with this tool.  
 - By using this software, you agree to comply with all laws and regulations applicable in your jurisdiction.
 
 ---
@@ -66,4 +66,4 @@ Personal use is free, but commercial use requires a paid license.
 
 ---
 
-© 2025 **Lazon** — All rights reserved.
+© 2025 **G-Azon** — All rights reserved.
