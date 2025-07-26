@@ -36,12 +36,6 @@ GoSpam automatically installs the following Python packages on first run:
 
 ## ▶️ How to Use
 
-Run the Python script with:
-
-```
-python gosspam.py
-```
-
 You will be prompted to:
 
 - Enter a **target URL or IP**  
